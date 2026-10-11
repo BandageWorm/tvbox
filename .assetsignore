@@ -1,0 +1,7 @@
+# 语法同 .gitignore，列在这里的文件不会被上传为静态资源
+.git
+.github
+.gitignore
+wrangler.jsonc
+.assetsignore
+package.json
